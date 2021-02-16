@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>About on Jinnie Shin, Ph.D.</title>
+    <link>https://example.com/</link>
+    <description>Recent content in About on Jinnie Shin, Ph.D.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 01 Dec 2020 21:13:14 -0500</lastBuildDate><atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello R Markdown</title>
+      <link>https://example.com/post/2020-12-01-r-rmarkdown/</link>
+      <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
+      
+      <guid>https://example.com/post/2020-12-01-r-rmarkdown/</guid>
+      <description>R Markdown This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
+You can embed an R code chunk like this:
+summary(cars) ## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.98 ## 3rd Qu.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://example.com/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/about/</guid>
+      <description>About Me  I am an Assistant Professor of Research and Evaluation Methodology Program in the School of Human Development and Organizational Studies in Education within the College of Education at the University of Florida.
+My research focuses on applications of theory-based Natural Language Processing and Learning Analytics. My primary research interest is investigating how to bridge the gap between psychometric and artificial intelligence in education research.
+I have experience with various international industry projects with the Medical Council of Canada, American College Testing, and the New Zealand Qualifications Authority, which focused on providing effective solutions to complex education problems using deep learning and natural language processing research.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://example.com/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/contact/</guid>
+      <description> Email: {firstname}.{lastname}@coe.ufl.edu Phone: (352) 273-4332   Mailing Address  Jinnie Shin
+Assistant Professor
+Research and Evaluation Methodology Program
+School of Human Development and Organizational Studies
+College of Education
+University of Florida
+PO Box 117049
+Gainesville, FL 32611
+  Social  Google Sholar Research Gate ORICD  </description>
+    </item>
+    
+    <item>
+      <title>Research</title>
+      <link>https://example.com/research/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/research/</guid>
+      <description>Featured Publication Please refer to my CV for more information about my publication and presentations.
+ 2020    Shin, J. &amp;amp; Guo, Q. &amp;amp; Gierl, M. J. (2020). Automated essay scoring using deep learning. In M. Khosrow-Pour (Editor), Handbook of Research on Modern Educational Technologies, Applications, and Management (Vol. 2) IGI-Global. DOI:10.4018/978-1-7998-3476-2
+    Bulut. O., Cormier, D. C. &amp;amp; Shin, J. (2020). An Intelligent recommender system for personalized test administration scheduling with computerized formative assessments.</description>
+    </item>
+    
+    <item>
+      <title>Research</title>
+      <link>https://example.com/teaching/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/teaching/</guid>
+      <description>Featured Courses  University of Alberta  Introduction to Machine Learning using Python (Winter 2020, Weekly Workshop)  University of Florida  EDF6938: Educational Text Mining and Natural Language Understanding (Fall 2021)  </description>
+    </item>
+    
+  </channel>
+</rss>
