@@ -16,11 +16,11 @@ params:
     url: https://github.com/ojroques/hugo-researcher
   logo: ''
   style:
-    avatarSize: 90px
+    avatarSize: 200px
     colorBlack: '#222222'
-    colorRed: '#dc3545'
-    fontFamily: Inconsolata
-    pageWidth: 750px
+    colorRed: '#2d6cf7'
+    fontFamily: Helvetica
+    pageWidth: 1100px
 permalinks:
   /: /:filename
 menu:
@@ -37,7 +37,7 @@ menu:
         1h8a1 1 0 0 0 1-1v-.245z"/></svg> '
       url: /resume.pdf
       weight: 2
-    - name: Project 
+    - name: Research
       url: /research 
       weight: 3 
     - name: Teaching 
