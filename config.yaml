@@ -19,7 +19,7 @@ params:
     avatarSize: 200px
     colorBlack: '#222222'
     colorRed: '#2d6cf7'
-    fontFamily: Helvetica
+    fontFamily: Georgia
     pageWidth: 1100px
 permalinks:
   /: /:filename
