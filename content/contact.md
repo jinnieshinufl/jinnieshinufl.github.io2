@@ -12,7 +12,7 @@ title: Contact
 > **Jinnie Shin**\
 > Assistant Professor\
 > Research and Evaluation Methodology Program\
-> School of Human Development and Organizational Studies \
+> School of Human Development and Organizational Studies in Education (H-DOSE) \
 > College of Education\
 > University of Florida\
 > PO Box 117049\
