@@ -7,7 +7,7 @@ title: Research
 
 ---
 ### 2021
-> - Gierl, M. J.,**Shin, J.**, & Firoozi, T. (in press). Automatic item generation. In R.Tierney, F. Rizvi, K. Ercikan, & G. Smith (Eds.), International Encyclopedia of Education(4th Ed.). New York: *Elsevier*.
+> - Gierl, M. J., **Shin, J.**, & Firoozi, T. (in press). Automatic item generation. In R.Tierney, F. Rizvi, K. Ercikan, & G. Smith (Eds.), International Encyclopedia of Education(4th Ed.). New York: *Elsevier*.
 
 ### 2020
 > - **Shin, J.** & Guo, Q. & Gierl, M. J. (2020). Automated essay scoring using deep learning. In M. Khosrow-Pour (Editor), Handbook of Research on Modern Educational Technologies, Applications, and Management (Vol. 2) *IGI-Global*. DOI:[10.4018/978-1-7998-3476-2](10.4018/978-1-7998-3476-2)
