@@ -7,6 +7,8 @@ title: Research
 
 ---
 ### 2021
+> - **Shin, J.**, Chen, F., Lu, Chang, & Bulut, O. (Accepted). Analyzing Students’ Performance in Computerized Formative Assessments to Optimize Teachers' Test Administration Decisions using Deep Learning Frameworks. Journal of Computers in Education. 
+> </br> </br>
 > - **Shin, J.**, & Bulut, O. (Accepted). Building an intelligent recommendation system for personalized test scheduling: A reinforcement learning approach. Behavior Research Methods.
 > </br> </br>
 > - **Shin, J.**, Balyan, R., Banawan, M., Leite, W. L., & McNamara, D. S (in press). Pedagogical Communication Language in Video Lectures: Empirical Findings from AlgebraNation. In Proceedings of International Conference of the Learning Sciences 2021.
