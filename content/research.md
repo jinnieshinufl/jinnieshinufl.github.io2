@@ -12,8 +12,10 @@ title: Research
 > - **Shin, J.**, Chen, F., Chang, L., & Bulut, O. (2021). Analyzing Students’ Performance in Computerized Formative Assessments to Optimize Teachers' Test Administration Decisions using Deep Learning Frameworks. Journal of Computers in Education. https://link.springer.com/article/10.1007/s40692-021-00196-7
 > </br> </br>
 > - **Shin, J.**, & Bulut, O. (2021). Building an intelligent recommendation system for personalized test scheduling: A reinforcement learning approach. Behavior Research Methods. DOI: 10.3758/s13428-021-01602-9 
+> </br> </br>
+> - Banawan, M., Balyan, R., **Shin, J.**, Leite, W. L., & McNamara, D. S (2021). Linguistic Features of Discourse within an Algebra Online Discussion Board Authors. In Proceedings of Educational Data Mining Conference 2021. https://educationaldatamining.org/EDM2021/virtual/static/pdf/EDM21_paper_89.pdf
 > </br> </br> 
-> - **Shin, J.**, Balyan, R., Banawan, M., Leite, W. L., & McNamara, D. S (in press). Pedagogical Communication Language in Video Lectures: Empirical Findings from AlgebraNation. In Proceedings of International Conference of the Learning Sciences 2021.
+> - **Shin, J.**, Balyan, R., Banawan, M., Leite, W. L., & McNamara, D. S (2021). Pedagogical Communication Language in Video Lectures: Empirical Findings from AlgebraNation. In Proceedings of International Conference of the Learning Sciences 2021.
 > </br> </br>
 > - Gierl, M. J., **Shin, J.**, & Firoozi, T. (in press). Automatic item generation. In R.Tierney, F. Rizvi, K. Ercikan, & G. Smith (Eds.), International Encyclopedia of Education(4th Ed.). New York: *Elsevier*.
 
